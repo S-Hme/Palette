@@ -37,7 +37,7 @@ header{
     margin-left: 50px; ;
 }
 
-.main a{
+span{
     font-size: 40px;
 }
 
@@ -50,4 +50,5 @@ header{
     text-align: center;
     margin-top: 100px;
 }
+
 
