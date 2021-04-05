@@ -2,10 +2,6 @@ body{
     font-family: "Hiragino Kaku Gothic ProN";
 }
 
-li{
-    list-style: none;
-}
-
 header{
     background-color: rgba(100, 85, 85, 0.5);
     font-size: 30px;
@@ -37,11 +33,7 @@ header{
     margin-left: 50px; ;
 }
 
-span{
-    font-size: 40px;
-}
-
-.main a:hover{
+a:hover{
     opacity: 0.5;
 }
 
@@ -49,6 +41,38 @@ span{
 .title{
     text-align: center;
     margin-top: 100px;
+}
+
+.top{
+    margin-top: 50px;
+    background-image: url(https://thumb.photo-ac.com/68/68a5a62d9cd73436e663fb614c18ac03_w.jpeg);
+    background-size: cover;
+}
+
+.img{
+position: relative;
+}
+
+
+
+.newContents span{
+    color: chocolate;
+    font-size: 30px;
+}
+
+
+
+
+
+@media(max-width:450px){
+    .main{
+        margin-left: 25px;
+    }
+
+
+
+
+
 }
 
 
