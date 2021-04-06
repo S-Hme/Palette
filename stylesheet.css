@@ -26,11 +26,13 @@ header{
 }
 
 .header-center{
-    width: 150px;
-    height: 50px;
     margin-left: 50%;
-    line-height: 50px;
-    color: coral;
+    
+}
+
+.paletteimg{
+    height: 50px;
+    width: 150px;
 }
 
 .header-right{
@@ -88,6 +90,9 @@ a:hover{
 
 
 }
+
+
+
 
 
 
