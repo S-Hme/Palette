@@ -30,7 +30,7 @@ header{
 }
 
 .main{
-    margin-left: 50px; ;
+    margin: 0;
 }
 
 a:hover{
@@ -44,7 +44,7 @@ a:hover{
 }
 
 .top{
-    margin: 70px 80px 0 0;
+    margin: 70px;
     background-image: url(4580302_l.jpg);
     background-size: cover;
 }
