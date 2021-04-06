@@ -9,16 +9,18 @@ header{
     position: fixed;
     top:0;
     z-index: 10;
+    
 
 }
 .header-center{
-    float: center;
+    margin: auto;
     height: 50px;
     width: 150px;
 }
 
 .header-right{
-    float:right;
+    float: right;
+    display: block;
 }
 
 .twitter{
@@ -47,12 +49,6 @@ a:hover{
     background-size: cover;
 }
 
-.img{
-position: relative;
-}
-
-
-
 .newContents span{
     color: black;
     font-size: 30px;
@@ -64,7 +60,7 @@ position: relative;
 
 @media(max-width:450px){
     .main{
-        margin-left: 10px;
+        margin:auto;
     }
 
     .top{
@@ -76,6 +72,9 @@ position: relative;
 
 
 }
+
+
+
 
 
 
