@@ -4,7 +4,7 @@ body{
 }
 
 header{
-    background-color: rgba(0, 170, 255, 0.9);
+    background-color: rgba(0, 170, 255, 0.8);
     font-size: 30px;
     color:black;
     font-family:MS PGothic;
@@ -27,12 +27,12 @@ header{
 
 .header-center{
     margin-left: 45%;
-    
 }
 
 .paletteimg{
     height: 50px;
     width: 150px;
+    opacity: 0.8;
 }
 
 .header-right{
@@ -85,14 +85,14 @@ a:hover{
         margin: 70px 10px 0 0;
     }
 
+    .header-center{
+        float: left;
+    }
 
 
 
 
 }
-
-
-
 
 
 
