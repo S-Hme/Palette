@@ -45,9 +45,7 @@ header{
 
 .twitter{
     height: 50px;
-    width:50px;
-    margin-right:15px; 
-}
+    width:50px;}
 
 .main{
     margin-left: 50px;
@@ -89,18 +87,13 @@ a:hover{
     }
 
     .header-center{
-        float: left;
+       margin-left: 0%;
     }
 
 
 
 
 }
-
-
-
-
-
 
 
 
