@@ -14,7 +14,6 @@ header{
     top:0;
     z-index: 10;
     height: 50px;
-    position: relative;
 }
 
 
@@ -78,8 +77,7 @@ a:hover{
 
 @media(max-width:450px){
     .main{
-        width: 420px;
-        margin:0 auto;
+        margin: 0 20px;
     }
 
     .top{
@@ -94,7 +92,6 @@ a:hover{
 
 
 }
-
 
 
 
