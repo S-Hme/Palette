@@ -1,4 +1,6 @@
-.header-center{
+@media all and (max-width:450px){
+    
+    .header-center{
        margin-left: 0%;
     }
 
