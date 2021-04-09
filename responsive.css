@@ -1,13 +1,5 @@
 @media all and (max-width:450px){
-    .main{
-        margin: 0 20px;
-        width: 100%;
-    }
-
-    .top{
-        margin: 70px 10px 0 0;
-    }
-
+    
     .header-center{
        margin-left: 0%;
     }
@@ -21,6 +13,17 @@
         font-family: Arial Black;
     }
     
+    .main{
+        margin: 0 auto;
+        width: 80%;
+    }
+
+    .top{
+        margin: 100px auto;
+        background-image: url(4580302_l.jpg);
+        background-size: cover;
+    }
+
 
     .newContents span{
         color: black;
