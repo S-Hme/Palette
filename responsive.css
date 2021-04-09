@@ -1,6 +1,7 @@
 @media all and (max-width:450px){
     .main{
         margin: 0 20px;
+        width: 100%;
     }
 
     .top{
