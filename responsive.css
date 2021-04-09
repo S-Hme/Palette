@@ -14,12 +14,12 @@
     }
     
     .main{
-        width: 90%;
         margin: 0 auto;
     }
 
     .top{
         margin: 100px 0;
+        width: 90%;
         background-image: url(4580302_l.jpg);
         background-size: cover;
     }
