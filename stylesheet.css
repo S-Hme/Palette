@@ -49,8 +49,8 @@ header{
 }
 
 .main{
-    margin-left: 50px;
-    width: 100%;
+    margin: 0 auto;
+    width: 90%;
 }
 
 a:hover{
@@ -64,7 +64,8 @@ a:hover{
 }
 
 .top{
-    margin: 100px 100px 0 70px;
+    margin: 100px auto;
+    width: 80%;
     background-image: url(4580302_l.jpg);
     background-size: cover;
 }
@@ -73,6 +74,13 @@ a:hover{
     color: black;
     font-size: 30px;
 }
+
+
+
+
+
+
+
 
 
 
