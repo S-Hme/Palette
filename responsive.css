@@ -1,0 +1,32 @@
+@media all and (max-width:450px){
+    .main{
+        margin: 0 20px;
+    }
+
+    .top{
+        margin: 70px 10px 0 0;
+    }
+
+    .header-center{
+       margin-left: 0%;
+    }
+
+    .paletteimg{
+        height: 50px;
+        width: 100px;
+        opacity: 0.8;
+        color: black;
+        line-height: 50px;
+        font-family: Arial Black;
+    }
+    
+
+    .newContents span{
+        color: black;
+        font-size: 25px;
+    }
+    
+
+
+
+}
