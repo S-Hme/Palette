@@ -50,6 +50,7 @@ header{
 
 .main{
     margin-left: 50px;
+    width: 100%;
 }
 
 a:hover{
@@ -72,5 +73,6 @@ a:hover{
     color: black;
     font-size: 30px;
 }
+
 
 
