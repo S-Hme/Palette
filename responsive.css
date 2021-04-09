@@ -1,6 +1,4 @@
-@media all and (max-width:450px){
-    
-    .header-center{
+.header-center{
        margin-left: 0%;
     }
 
@@ -14,12 +12,12 @@
     }
     
     .main{
+        width: 90%;
         margin: 0 auto;
-        width: 80%;
     }
 
     .top{
-        margin: 100px auto;
+        margin: 100px 0;
         background-image: url(4580302_l.jpg);
         background-size: cover;
     }
