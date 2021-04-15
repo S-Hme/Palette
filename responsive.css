@@ -13,7 +13,10 @@
         font-family: Arial Black;
     }
     
-   
+    .main{
+        width: 100%;
+        background-color: white;
+    }
 
     .top{
         width: 90%;
@@ -26,6 +29,11 @@
     .newContents span{
         color: black;
         font-size: 25px;
+    }
+
+    .rightP{
+        display: none;
+       
     }
     
 
